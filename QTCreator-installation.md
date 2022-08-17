@@ -1,4 +1,5 @@
-wget https://download.qt.io/new_archive/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+wget https://download.qt.io/archive/qt/5.12/5.12.11/qt-opensource-linux-x64-5.12.11.run
+
 
 sudo chmod +x qt-opensource-linux-x64-5.12.11.run
 sudo ./qt-opensource-linux-x64-5.12.11.run
